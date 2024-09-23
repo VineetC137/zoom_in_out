@@ -1,16 +1,6 @@
-# zoom_in_out
+This Flutter application allows users to zoom in and out on a text label using buttons. The app features a simple and intuitive user interface with an AppBar and a centered text widget. The text scales dynamically based on user input, showcasing Flutter's capabilities for responsive design.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Dynamic Text Scaling: Users can zoom in and out on the text by pressing the corresponding buttons.
+Customizable Text Appearance: The text can be styled with different attributes such as font size, weight, color, and letter spacing.
+User-Friendly Interface: The layout is clean and centered, making it easy to interact with the zoom functionality.
